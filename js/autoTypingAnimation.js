@@ -1,9 +1,9 @@
 setTimeout(function() {
     $('.about-info-inner').typed({
       strings: [
-        "<span>Hi, I am Golam Morsed</span> Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit eius officia ea ut vonsectetur adipisicing elit. Illo voluptatum iste, tempora rem obcaecati omnis delectus sunt, consequuntur, et ut quasi aperiam assumenda! <br><br> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex beatae reprehenderit vero maiores dignissimos error vitae, optio inventore explicabo quia officiis magni delectus? Lorem ipsum dolor, sit amet consectetur"
+        "<span>Hello there 👋, I am Rishi Maheshwari</span> and I am form Kothri (MP) I have completed my graduation form BU BHOPAL university  and I am currently pursuing MCA form VIT BHOPAL university. My Intrest is in web devlopmet and  I am currently pursuing for MERN Stack devloper,and I have good problem solving skill and my hobby is play cricket."
       ],
       typeSpeed: 7,
       contentType: 'html'
     });
-  }, 100);
+  }, 100); 
